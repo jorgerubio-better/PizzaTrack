@@ -23,4 +23,4 @@ Una pila es una estructura de datos lineal que sigue el principio **LIFO** (Last
 - Jorge Alejandro Rubio Giraldo
 
 ## 🎥 Sustentación (Video)
-**Enlace al video:** [link]
+**Enlace al video:** [(https://drive.google.com/file/d/1vLuQ5fvG23S3qk3WUb0n3T_WY8-qwtWg/view?usp=sharing)]
